@@ -29,11 +29,12 @@ G:\Programacion II 2018\guiaPractica2018\Estructuras_Control_Flujo\bin\Debug\Est
 G:\Programacion II 2018\guiaPractica2018\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.xml
 G:\Programacion II 2018\guiaPractica2018\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.Resources.resources
 G:\Programacion II 2018\guiaPractica2018\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.vbproj.GenerateResource.Cache
-C:\Users\Alfredio\Desktop\guiaPractica2018\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.exe.config
-C:\Users\Alfredio\Desktop\guiaPractica2018\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.exe
-C:\Users\Alfredio\Desktop\guiaPractica2018\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.xml
-C:\Users\Alfredio\Desktop\guiaPractica2018\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.pdb
 C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.exe.config
 C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.exe
 C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.xml
 C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.pdb
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.exe
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.pdb
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.xml
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.Resources.resources
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-estructuras-control-flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.vbproj.GenerateResource.Cache

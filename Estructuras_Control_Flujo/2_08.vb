@@ -1,4 +1,4 @@
-﻿Module _08
+﻿Module _2_08
     Enum meses As Byte
         Enero = 1
         Febrero = 2
@@ -22,7 +22,7 @@
 
         If mes = 1 Or mes = 3 Or mes = 5 Or mes = 7 Or mes = 8 Or mes = 10 Or mes = 12 Then
             Console.WriteLine("El mes tiene 31 dias")
-        ElseIf mes = 4 or mes = 6 or mes = 9 or mes = 11 then
+        ElseIf mes = 4 Or mes = 6 Or mes = 9 Or mes = 11 Then
             Console.WriteLine("El mes tiene 30 días")
         ElseIf mes = 2 Then
             Console.WriteLine("Escogío febrero")

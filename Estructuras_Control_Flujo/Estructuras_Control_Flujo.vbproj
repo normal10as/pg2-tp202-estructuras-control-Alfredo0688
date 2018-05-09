@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6ADC80E2-4A2B-4C22-A339-1F2A5973FB37}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Estructuras_Control_Flujo._15</StartupObject>
+    <StartupObject>Estructuras_Control_Flujo._2_10</StartupObject>
     <RootNamespace>Estructuras_Control_Flujo</RootNamespace>
     <AssemblyName>Estructuras_Control_Flujo</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -66,7 +66,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="_01.vb" />
+    <Compile Include="2_01.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -82,24 +82,24 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="_02.vb" />
-    <Compile Include="_03.vb" />
-    <Compile Include="_04.vb" />
-    <Compile Include="_05.vb" />
-    <Compile Include="_06.vb" />
-    <Compile Include="_07.vb" />
-    <Compile Include="_08.vb" />
-    <Compile Include="_09.vb" />
-    <Compile Include="_13.vb" />
-    <Compile Include="_10.vb" />
-    <Compile Include="_10a.vb" />
-    <Compile Include="_10b.vb" />
-    <Compile Include="_10c.vb" />
-    <Compile Include="_10d.vb" />
-    <Compile Include="_11.vb" />
-    <Compile Include="_12.vb" />
-    <Compile Include="_14.vb" />
-    <Compile Include="_15.vb" />
+    <Compile Include="2_02.vb" />
+    <Compile Include="2_03.vb" />
+    <Compile Include="2_04.vb" />
+    <Compile Include="2_05.vb" />
+    <Compile Include="2_06.vb" />
+    <Compile Include="2_07.vb" />
+    <Compile Include="2_08.vb" />
+    <Compile Include="2_09.vb" />
+    <Compile Include="2_13.vb" />
+    <Compile Include="2_10.vb" />
+    <Compile Include="2_10_a.vb" />
+    <Compile Include="2_10_b.vb" />
+    <Compile Include="2_10_c.vb" />
+    <Compile Include="2_10_d.vb" />
+    <Compile Include="2_11.vb" />
+    <Compile Include="2_12.vb" />
+    <Compile Include="2_14.vb" />
+    <Compile Include="2_15.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

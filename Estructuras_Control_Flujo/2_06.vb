@@ -1,4 +1,4 @@
-﻿Module _06
+﻿Module _2_06
     Sub main()
 
         Dim valorProducto As Single

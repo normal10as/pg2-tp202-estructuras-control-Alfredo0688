@@ -1,4 +1,4 @@
-﻿Module _15
+﻿Module _2_15
     Sub main()
 
         Const tasaInteres As Single = 36 / 100

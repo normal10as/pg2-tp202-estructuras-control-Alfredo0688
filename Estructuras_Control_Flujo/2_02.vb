@@ -1,4 +1,4 @@
-﻿Module _02
+﻿Module _2_02
     Sub main()
 
         Dim valor1, valor2, valor3 As Short

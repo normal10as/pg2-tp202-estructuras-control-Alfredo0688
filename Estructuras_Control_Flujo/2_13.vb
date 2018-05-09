@@ -1,4 +1,4 @@
-﻿Module _13
+﻿Module _2_13
     Sub main()
         Dim contador As UShort
         Dim numeroPrimo As UShort

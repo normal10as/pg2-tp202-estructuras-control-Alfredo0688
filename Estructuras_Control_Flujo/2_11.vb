@@ -1,4 +1,4 @@
-﻿Module _11
+﻿Module _2_11
     Sub main()
 
         Dim valor As UShort = 1
@@ -8,7 +8,7 @@
 
 
 
-      
+
         Do Until valor = 0
 
             Console.WriteLine("Ingresar valores hasta que sea cero")
